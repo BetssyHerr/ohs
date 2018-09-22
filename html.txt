@@ -1,1 +1,18 @@
+HTML
 
+Work notes
+
+1. HTML Is the estructure of the write or language of the computer.
+2. HTML Made of tags.
+   <head> </head>
+3. <!DOCTYPE HTML>
+   <HTML> 
+      <head>
+        <tittle> Hi guys </tittle>
+      </head>
+      
+      <body>
+        <h1> aslskdj </h1>
+        <p> hola amigos </p>
+      </body>
+   <HTML>
