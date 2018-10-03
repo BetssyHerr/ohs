@@ -16,3 +16,29 @@ Work notes
         <p> hola amigos </p>
       </body>
    </HTML>
+   
+   WEEK 2
+   
+   headings
+      <h1>Very big</h1>
+      <h2>bla bla bla</h2>
+   
+   paragraphs
+      <p>This is a paragraph</p>
+      
+   lists
+   
+      Unordered Lists: PUNTOS
+         <ul>
+            <li>Sara</li>
+            <li>Betssy</li>
+            <li>Ms. Ang</li>
+          </ul>
+          
+      Ordered Lists: NUMEROS
+         <ol>
+            <li>Sara</li>
+            <li>Betssy</li>
+            <li>Ms. Ang</li>
+         </ol>
+  
